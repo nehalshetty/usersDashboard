@@ -1,0 +1,13 @@
+.page-header {
+  height: 55px;
+  background-color: #4598f7;
+}
+.page-main {
+  min-height: calc(100vh - 35vh - 55px);
+}
+
+.page-footer {
+  height: 35vh;
+
+  background-color: #0077ff;
+}

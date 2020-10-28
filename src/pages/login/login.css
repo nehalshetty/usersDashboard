@@ -1,0 +1,35 @@
+.landing-page .login-card {
+  width: 40vw;
+  height: 300px;
+  margin: auto;
+  top: 50vh;
+  transform: translate(0, 50%);
+  border: 1px solid grey;
+  padding: 10px 10px;
+}
+
+.login-card__form {
+  display: flex;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.login-card__title {
+  margin: 0;
+}
+
+.input-container {
+  height: 45px;
+}
+
+.input--width {
+  width: 100%;
+}
+
+.message-danger {
+  color: red;
+  margin-top: 5px;
+}
